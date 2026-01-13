@@ -1,10 +1,10 @@
 PROJECT ALEPH // INTEGER RESONANCE ARCHITECTURE
 
 CLASSIFICATION: PUBLIC RELEASE (PHASE 3)
-ARCHITECT: CHIEF PROJECT ENGINEER
+ARCHITECT: William Alubokho Ashioya
 TARGET: CONSUMER CPU (AVX-512)
 
-"The goal is not to simulate a brain on a GPU cluster, but to build a resonator that fits in a pocket."
+"This is a physics-first AI architecture designed to break the NVidia monopoly by enabling massive resonant agents on consumer CPUs. The goal is not to simulate a brain on a GPU cluster, but to build a resonator that fits in a pocket."
 
 1. Overview
 
